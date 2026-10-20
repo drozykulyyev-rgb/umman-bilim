@@ -1,0 +1,40 @@
+.layout-1 {
+  margin-top: 32px;
+}
+.layout-2 {
+  font-size: 12px;
+}
+.layout-3 {
+  grid-template-columns: 1fr;
+}
+.layout-4 {
+  color: #c2cfe1;
+  margin-top: 25px;
+}
+.layout-5 {
+  max-width: 420px;
+  margin: 40px auto;
+}
+.layout-6 {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 18px;
+}
+.layout-7 {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+.layout-8 {
+  white-space: pre-line;
+}
+.layout-9 {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+}
+.layout-10 {
+  white-space: pre-line;
+  margin-top: 12px;
+}

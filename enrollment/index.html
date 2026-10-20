@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Запись на курс — UMMAN</title>
+    <meta
+      name="description"
+      content="Новости и объявления учебного центра UMMAN в Туркменабате. Адрес и контакты."
+    />
+    <link rel="stylesheet" href="../assets/css/site.css" />
+    <link rel="stylesheet" href="../assets/css/enrollment.css" />
+    <link rel="stylesheet" href="../assets/css/layout.css" />
+  </head>
+  <body>
+    <div class="top">
+      <div class="wrap">
+        <span>Туркменабат · Учебный центр</span
+        ><a href="tel:+99371909910">+993 71 90-99-10</a>
+      </div>
+    </div>
+    <header>
+      <nav class="wrap nav" aria-label="Основное меню">
+        <a class="wordmark" href="../">UMMAN<small>BILIM MERKEZI</small></a>
+        <div class="menu">
+          <a href="../">Главная</a><a href="../courses/">Курсы</a
+          ><a class="current" aria-current="page" href="../enrollment/"
+            >Запись на курс</a
+          >
+        </div>
+        <div class="langs" aria-label="Выбор языка">
+          <button type="button" lang="tk">TM</button
+          ><button type="button" class="active" lang="ru">RU</button
+          ><button type="button" lang="en">EN</button>
+        </div>
+      </nav>
+    </header>
+    <main class="wrap enroll">
+      <div class="eyebrow">UMMAN BILIM MERKEZI</div>
+      <h1>Запись на курс</h1>
+      <p class="enroll-lead">
+        Расскажите об ученике, выберите интересующие курсы и удобное время для
+        визита в центр.
+      </p>
+      <form id="application">
+        <fieldset class="form-section">
+          <legend>01 · Об ученике</legend>
+          <div class="fields">
+            <label class="field"
+              >Имя ученика *<input
+                name="Имя"
+                autocomplete="given-name"
+                required
+                maxlength="100" /></label
+            ><label class="field"
+              >Фамилия *<input
+                name="Фамилия"
+                autocomplete="family-name"
+                required
+                maxlength="100" /></label
+            ><label class="field"
+              >Дата рождения *<input
+                type="date"
+                name="Дата рождения"
+                required
+                id="birth" /></label
+            ><label class="field"
+              >Класс / не учится в школе<select name="Класс">
+                <option value="">Выберите</option>
+                <option>Дошкольник</option>
+                <option>1 класс</option>
+                <option>2 класс</option>
+                <option>3 класс</option>
+                <option>4 класс</option>
+                <option>5 класс</option>
+                <option>6 класс</option>
+                <option>7 класс</option>
+                <option>8 класс</option>
+                <option>9 класс</option>
+                <option>10 класс</option>
+                <option>11 класс</option>
+                <option>12 класс</option>
+                <option>Не учусь в школе</option>
+              </select></label
+            ><label class="field full"
+              >Имя и фамилия родителя / представителя<input
+                name="Родитель"
+                maxlength="200"
+              /><span class="help"
+                >Для несовершеннолетнего ученика.</span
+              ></label
+            ><label class="field"
+              >Телефон ученика / основной контакт *<input
+                type="tel"
+                name="Телефон"
+                placeholder="+993"
+                required
+                maxlength="30"
+                pattern="[+0-9() .-]{7,30}" /></label
+            ><label class="field"
+              >Дополнительный телефон<input
+                type="tel"
+                name="Дополнительный телефон"
+                placeholder="+993"
+                maxlength="30"
+            /></label>
+          </div>
+        </fieldset>
+        <fieldset class="form-section">
+          <legend>02 · Выбранные курсы</legend>
+          <div class="choices">
+            <label class="choice"
+              ><input type="checkbox" name="Курсы" value="Математика" /><span
+                >Математика</span
+              ></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Физика" /><span
+                >Физика</span
+              ></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Химия" /><span
+                >Химия</span
+              ></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Биология" /><span
+                >Биология</span
+              ></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Русский язык" /><span
+                >Русский язык</span
+              ></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Английский язык"
+              /><span>Английский язык</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Китайский язык"
+              /><span>Китайский язык</span></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Японский язык" /><span
+                >Японский язык</span
+              ></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Немецкий язык" /><span
+                >Немецкий язык</span
+              ></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Корейский язык"
+              /><span>Корейский язык</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Французский язык"
+              /><span>Французский язык</span></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Арабский язык" /><span
+                >Арабский язык</span
+              ></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Компьютерная грамотность"
+              /><span>Компьютерная грамотность</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Программирование"
+              /><span>Программирование</span></label
+            ><label class="choice"
+              ><input type="checkbox" name="Курсы" value="Робототехника" /><span
+                >Робототехника</span
+              ></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Подготовка к школе"
+              /><span>Подготовка к школе</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Занятия для 1–4 классов"
+              /><span>Занятия для 1–4 классов</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Изобразительное искусство"
+              /><span>Изобразительное искусство</span></label
+            ><label class="choice"
+              ><input
+                type="checkbox"
+                name="Курсы"
+                value="Занятия с дефектологом"
+              /><span>Занятия с дефектологом</span></label
+            >
+          </div>
+          <p class="help">
+            Можно выбрать несколько направлений. Группу и уровень подготовки
+            уточним при общении.
+          </p>
+        </fieldset>
+        <fieldset class="form-section">
+          <legend>03 · Пожелания к занятиям</legend>
+          <div class="fields">
+            <div>
+              <p>Удобное время</p>
+              <div class="choices layout-3">
+                <label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Время занятий"
+                    value="Утро · 09:00–12:00"
+                  /><span>Утро · 09:00–12:00</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Время занятий"
+                    value="День · 14:00–17:00"
+                  /><span>День · 14:00–17:00</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Время занятий"
+                    value="Вечер · 18:00–21:00"
+                  /><span>Вечер · 18:00–21:00</span></label
+                >
+              </div>
+            </div>
+            <div>
+              <p>Удобные дни</p>
+              <div class="choices layout-3">
+                <label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Дни занятий"
+                    value="Пн / Ср / Пт"
+                  /><span>Пн / Ср / Пт</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Дни занятий"
+                    value="Вт / Чт / Сб"
+                  /><span>Вт / Чт / Сб</span></label
+                >
+              </div>
+            </div>
+            <div class="full">
+              <p>Цель обучения</p>
+              <div class="choices">
+                <label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Цель обучения"
+                    value="Улучшить оценки"
+                  /><span>Улучшить оценки</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Цель обучения"
+                    value="Подготовиться к экзамену"
+                  /><span>Подготовиться к экзамену</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Цель обучения"
+                    value="Подготовиться к олимпиаде"
+                  /><span>Подготовиться к олимпиаде</span></label
+                ><label class="choice"
+                  ><input
+                    type="checkbox"
+                    name="Цель обучения"
+                    value="Получить новые знания"
+                  /><span>Получить новые знания</span></label
+                >
+              </div>
+            </div>
+          </div>
+        </fieldset>
+        <fieldset class="form-section">
+          <legend>04 · Визит в центр</legend>
+          <div class="fields">
+            <label class="field"
+              >Желаемая дата *<input
+                id="visit-date"
+                name="Дата визита"
+                type="date"
+                required /></label
+            ><label class="field"
+              >Желаемое время *<input
+                name="Время визита"
+                type="time"
+                min="10:00"
+                max="20:00"
+                required /></label
+            ><label class="field full"
+              >Комментарий<textarea
+                name="Комментарий"
+                rows="3"
+                maxlength="2000"
+                placeholder="Что нам стоит знать перед встречей?"
+              ></textarea>
+            </label>
+          </div>
+          <p class="help">
+            Приём по будням, с 10:00 до 20:00. Выбранное время — пожелание;
+            визит подтверждает администратор.
+          </p>
+        </fieldset>
+        <p class="layout-4">
+          Наш администратор свяжется с вами, чтобы уточнить детали и подтвердить
+          время визита.
+        </p>
+        <div class="submit-bar">
+          <button type="submit">Проверить анкету →</button
+          ><span class="status">Отправка на почту пока не подключена.</span>
+        </div>
+        <section class="review" id="review" aria-live="polite" hidden></section>
+      </form>
+    </main>
+    <footer class="footer">
+      <div class="wrap">
+        <div class="footer-grid">
+          <div>
+            <a class="wordmark" href="../">UMMAN<small>BILIM MERKEZI</small></a>
+            <p>Учебный центр в Туркменабате.</p>
+          </div>
+          <div>
+            <h3>АДРЕС</h3>
+            <p>
+              Туркменабат, улица Зелили<br />Торговый центр Awaza, 2-й этаж<br />Zelili
+              köçesi, Awaza Söwda merkezi, 2 gat.
+            </p>
+          </div>
+          <div>
+            <h3>СВЯЗАТЬСЯ С НАМИ</h3>
+            <a class="phone" href="tel:+99371909910">+993 71 90-99-10</a>
+            <p>Время работы уточняйте по телефону.</p>
+            <div class="socials">
+              <a
+                href="https://www.instagram.com/ummanbilim/"
+                target="_blank"
+                rel="noopener"
+                >Instagram ↗</a
+              ><a
+                href="https://www.tiktok.com/@ummanbilim"
+                target="_blank"
+                rel="noopener"
+                >TikTok ↗</a
+              >
+            </div>
+          </div>
+        </div>
+        <div class="bottom">
+          <span>© 2026 UMMAN Bilim Merkezi</span
+          ><span>Türkmenabat, Türkmenistan</span>
+        </div>
+      </div>
+    </footer>
+    <script src="../assets/js/enrollment.js" defer></script>
+    <script src="../assets/js/preview-config.js" defer></script><script src="../assets/js/i18n.js" defer></script>
+    <script src="../assets/js/content.js" defer></script>
+  </body>
+</html>

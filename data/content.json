@@ -1,0 +1,492 @@
+{
+  "news": [
+    {
+      "id": "f62af505-7f1d-475d-915f-1489fcbdbf18",
+      "published": true,
+      "group": "Другие направления",
+      "date": "2026-10-20",
+      "link": "",
+      "image": "",
+      "title": {
+        "ru": "20.10.2026",
+        "tk": "",
+        "en": ""
+      },
+      "summary": {
+        "ru": ".......",
+        "tk": "",
+        "en": ""
+      },
+      "body": {
+        "ru": ".............................................",
+        "tk": "",
+        "en": ""
+      }
+    },
+    {
+      "id": "opening",
+      "title": {
+        "ru": "Знакомство с UMMAN",
+        "tk": "UMMAN bilen tanyşlyk",
+        "en": "Meet UMMAN"
+      },
+      "summary": {
+        "ru": "Посмотрите публикацию об открытии учебного центра в нашем Instagram.",
+        "tk": "Bilim merkezimiziň açylyşy baradaky ýazgyny Instagram sahypamyzda görüň.",
+        "en": "See our Instagram post about the centre opening."
+      },
+      "body": {
+        "ru": "",
+        "tk": "",
+        "en": ""
+      },
+      "image": "",
+      "link": "https://www.instagram.com/ummanbilim/reel/DZ6_aNLCcck/",
+      "published": true,
+      "date": "2026-06-23"
+    }
+  ],
+  "courses": [
+    {
+      "id": "2d7c82a8-9a85-4dcc-b21c-2b18be2580d5",
+      "published": true,
+      "group": "Языки",
+      "date": "2026-10-20",
+      "link": "",
+      "image": "",
+      "title": {
+        "ru": "urugwayskiw",
+        "tk": "wewe",
+        "en": ""
+      },
+      "summary": {
+        "ru": "wrt",
+        "tk": "wewew",
+        "en": ""
+      },
+      "body": {
+        "ru": "wewe",
+        "tk": "wewewe",
+        "en": ""
+      }
+    },
+    {
+      "id": "arabic",
+      "title": {
+        "ru": "Арабский язык",
+        "tk": "Arap dili",
+        "en": "Arabic"
+      },
+      "summary": {
+        "ru": "Откройте новый мир языка.",
+        "tk": "Diliň täze dünýäsini açyň.",
+        "en": "Discover a new world of language."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "art",
+      "title": {
+        "ru": "Изобразительное искусство",
+        "tk": "Şekillendiriş sungaty",
+        "en": "Visual arts"
+      },
+      "summary": {
+        "ru": "Дайте идеям обрести форму.",
+        "tk": "Pikirleriňize şekil beriň.",
+        "en": "Give your ideas a shape."
+      },
+      "body": {
+        "ru": "Развивайте наблюдательность и пробуйте выражать свои идеи через рисунок и творческие задания.",
+        "tk": "Ünsli syn etmegi öwreniň we pikirleriňizi surat hem-de döredijilikli ýumuşlar arkaly beýan ediň.",
+        "en": "Develop observation skills and express your ideas through drawing and creative activities."
+      },
+      "group": "Другие направления",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "biology",
+      "title": {
+        "ru": "Биология",
+        "tk": "Biologiýa",
+        "en": "Biology"
+      },
+      "summary": {
+        "ru": "Изучайте жизнь во всём её разнообразии.",
+        "tk": "Durmuşyň köpdürlüligini öwreniň.",
+        "en": "Explore life in all its variety."
+      },
+      "body": {
+        "ru": "Систематизируйте знания о живых организмах, природе и процессах, которые происходят вокруг нас.",
+        "tk": "Janly organizmler, tebigat we daş-töweregimizde bolup geçýän hadysalar baradaky bilimleriňizi ulgamlaşdyryň.",
+        "en": "Organise your knowledge of living organisms, nature and the processes happening around us."
+      },
+      "group": "Школьные предметы",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "chemistry",
+      "title": {
+        "ru": "Химия",
+        "tk": "Himiýa",
+        "en": "Chemistry"
+      },
+      "summary": {
+        "ru": "От элементов — к пониманию реакций.",
+        "tk": "Elementlerden reaksiýalara düşünmäge.",
+        "en": "From elements to understanding reactions."
+      },
+      "body": {
+        "ru": "Разберитесь в основных понятиях химии и научитесь видеть связи между веществами и их свойствами.",
+        "tk": "Himiýanyň esasy düşünjelerini öwreniň we maddalar bilen olaryň häsiýetleriniň arasyndaky baglanyşyga düşüniň.",
+        "en": "Understand fundamental chemistry concepts and the relationships between substances and their properties."
+      },
+      "group": "Школьные предметы",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "chinese",
+      "title": {
+        "ru": "Китайский язык",
+        "tk": "Hytaý dili",
+        "en": "Chinese"
+      },
+      "summary": {
+        "ru": "Познакомьтесь с новым языком и культурой.",
+        "tk": "Täze dil we medeniýet bilen tanyşyň.",
+        "en": "Discover a new language and culture."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "computer",
+      "title": {
+        "ru": "Компьютерная грамотность",
+        "tk": "Kompýuter sowatlylygy",
+        "en": "Computer literacy"
+      },
+      "summary": {
+        "ru": "Освойтесь в цифровом мире.",
+        "tk": "Sanly dünýäde ynamly hereket ediň.",
+        "en": "Feel at home in the digital world."
+      },
+      "body": {
+        "ru": "Научитесь увереннее пользоваться компьютером и решать повседневные цифровые задачи.",
+        "tk": "Kompýuteri ynamly ulanmagy we gündelik sanly meseleleri çözmegi öwreniň.",
+        "en": "Learn to use a computer confidently and tackle everyday digital tasks."
+      },
+      "group": "Технологии",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "defectologist",
+      "title": {
+        "ru": "Занятия с дефектологом",
+        "tk": "Defektolog bilen sapaklar",
+        "en": "Special education support"
+      },
+      "summary": {
+        "ru": "Обсудите потребности ребёнка со специалистом.",
+        "tk": "Çaganyň zerurlyklaryny hünärmen bilen maslahatlaşyň.",
+        "en": "Discuss your child's needs with a specialist."
+      },
+      "body": {
+        "ru": "Уточните у центра формат занятий, возрастные группы и возможность консультации специалиста.",
+        "tk": "Sapaklaryň görnüşini, ýaş toparlaryny we hünärmeniň maslahatyny almak mümkinçiligini merkezden anyklaň.",
+        "en": "Ask the centre about class formats, age groups and the possibility of a specialist consultation."
+      },
+      "group": "Другие направления",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "english",
+      "title": {
+        "ru": "Английский язык",
+        "tk": "Iňlis dili",
+        "en": "English"
+      },
+      "summary": {
+        "ru": "Больше возможностей для общения.",
+        "tk": "Aragatnaşyk üçin has köp mümkinçilik.",
+        "en": "More opportunities to connect."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "french",
+      "title": {
+        "ru": "Французский язык",
+        "tk": "Fransuz dili",
+        "en": "French"
+      },
+      "summary": {
+        "ru": "Учитесь понимать и говорить.",
+        "tk": "Düşünmegi we geplemegi öwreniň.",
+        "en": "Learn to understand and speak."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "german",
+      "title": {
+        "ru": "Немецкий язык",
+        "tk": "Nemes dili",
+        "en": "German"
+      },
+      "summary": {
+        "ru": "Расширяйте границы общения.",
+        "tk": "Aragatnaşygyň çäklerini giňeldiň.",
+        "en": "Expand your communication horizons."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "japanese",
+      "title": {
+        "ru": "Японский язык",
+        "tk": "Ýapon dili",
+        "en": "Japanese"
+      },
+      "summary": {
+        "ru": "Сделайте первый шаг к японскому языку.",
+        "tk": "Ýapon diline ilkinji ädimi ädiň.",
+        "en": "Take your first step into Japanese."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "korean",
+      "title": {
+        "ru": "Корейский язык",
+        "tk": "Koreý dili",
+        "en": "Korean"
+      },
+      "summary": {
+        "ru": "Откройте для себя корейский язык.",
+        "tk": "Koreý dilini öwrenip başlaň.",
+        "en": "Discover Korean."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "math",
+      "title": {
+        "ru": "Математика",
+        "tk": "Matematika",
+        "en": "Mathematics"
+      },
+      "summary": {
+        "ru": "Понимать, а не просто запоминать.",
+        "tk": "Diňe ýat tutman, düşünmegi öwreniň.",
+        "en": "Understand, rather than just memorise."
+      },
+      "body": {
+        "ru": "Разбирайтесь в формулах, находите логику в задачах и укрепляйте знания по математике.",
+        "tk": "Formulalara düşüniň, meseleleriň çözgüdinde logikany tapyň we matematika bilimleriňizi berkidiň.",
+        "en": "Understand formulas, find the logic in problems and strengthen your mathematics skills."
+      },
+      "group": "Школьные предметы",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "physics",
+      "title": {
+        "ru": "Физика",
+        "tk": "Fizika",
+        "en": "Physics"
+      },
+      "summary": {
+        "ru": "Откройте логику окружающего мира.",
+        "tk": "Daş-töweregiň kanunalaýyklyklaryna düşüniň.",
+        "en": "Discover how the world works."
+      },
+      "body": {
+        "ru": "Связывайте физические законы с понятными примерами и учитесь применять их в задачах.",
+        "tk": "Fizikanyň kanunlaryny düşnükli mysallar bilen baglanyşdyryň we olary meselelerde ulanmagy öwreniň.",
+        "en": "Connect physical laws with clear examples and learn to apply them to problems."
+      },
+      "group": "Школьные предметы",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "preschool",
+      "title": {
+        "ru": "Подготовка к школе",
+        "tk": "Mekdebe taýýarlyk",
+        "en": "School preparation"
+      },
+      "summary": {
+        "ru": "Первый шаг к школьной жизни.",
+        "tk": "Mekdep durmuşyna ilkinji ädim.",
+        "en": "The first step towards school."
+      },
+      "body": {
+        "ru": "Помогите ребёнку познакомиться с учебными заданиями и подготовиться к новому этапу. Возраст и содержание занятий уточняйте в центре.",
+        "tk": "Çagaňyza okuw ýumuşlary bilen tanyşmaga we täze tapgyra taýýarlanmaga kömek ediň. Ýaş we sapaklaryň mazmunyny merkezden anyklaň.",
+        "en": "Help your child become familiar with learning tasks and prepare for a new stage. Ask the centre about ages and class content."
+      },
+      "group": "Для детей",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "primary",
+      "title": {
+        "ru": "Занятия для 1–4 классов",
+        "tk": "1–4-nji synplar üçin goşmaça okuw",
+        "en": "Support for grades 1–4"
+      },
+      "summary": {
+        "ru": "Поддержка в школьных занятиях.",
+        "tk": "Mekdep okuwyna goldaw.",
+        "en": "Support with school learning."
+      },
+      "body": {
+        "ru": "Дополнительные занятия для учеников начальной школы: разбор сложных тем и закрепление изученного.",
+        "tk": "Başlangyç synp okuwçylary üçin goşmaça sapaklar: kyn temalary düşündirmek we öwrenilenleri berkitmek.",
+        "en": "Additional classes for primary school pupils: working through difficult topics and reinforcing learning."
+      },
+      "group": "Для детей",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "programming",
+      "title": {
+        "ru": "Программирование",
+        "tk": "Programmirleme",
+        "en": "Programming"
+      },
+      "summary": {
+        "ru": "От идеи — к первым решениям.",
+        "tk": "Pikirden ilkinji çözgütlere.",
+        "en": "From ideas to your first solutions."
+      },
+      "body": {
+        "ru": "Познакомьтесь с логикой программирования и подходами к решению задач. Язык и программу курса уточняйте в центре.",
+        "tk": "Programmirlemegiň logikasy we meseleleri çözmegiň usullary bilen tanyşyň. Programmirleme dilini we okuw maksatnamasyny merkezden anyklaň.",
+        "en": "Explore programming logic and approaches to problem solving. Ask the centre about the programming language and curriculum."
+      },
+      "group": "Технологии",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "robotics",
+      "title": {
+        "ru": "Робототехника",
+        "tk": "Robot tehnologiýasy",
+        "en": "Robotics"
+      },
+      "summary": {
+        "ru": "Исследуйте. Собирайте. Пробуйте.",
+        "tk": "Öwreniň. Ýygnaň. Synap görüň.",
+        "en": "Explore. Build. Experiment."
+      },
+      "body": {
+        "ru": "Познакомьтесь с миром робототехники и связью между конструкцией, командами и движением.",
+        "tk": "Robot tehnologiýasy bilen tanyşyň we gurluşyň, buýruklaryň hem-de hereketiň arasyndaky baglanyşygy öwreniň.",
+        "en": "Explore robotics and the connections between construction, commands and movement."
+      },
+      "group": "Технологии",
+      "published": true,
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": "russian",
+      "title": {
+        "ru": "Русский язык",
+        "tk": "Rus dili",
+        "en": "Russian"
+      },
+      "summary": {
+        "ru": "Выражайте мысли ясно и уверенно.",
+        "tk": "Pikirleriňizi aýdyň we ynamly beýan ediň.",
+        "en": "Express yourself clearly and confidently."
+      },
+      "body": {
+        "ru": "Развивайте навыки общения, пополняйте словарный запас и знакомьтесь с устройством языка. Уточните подходящую группу у администратора.",
+        "tk": "Aragatnaşyk başarnyklaryňyzy ösdürip, söz baýlygyňyzy artdyryň we diliň gurluşy bilen tanyşyň. Laýyk topary administratordan anyklaň.",
+        "en": "Develop communication skills, build your vocabulary and explore how the language works. Ask the administrator about a suitable group."
+      },
+      "group": "Языки",
+      "published": true,
+      "image": "",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+.enroll {
+  max-width: 900px;
+  padding: 48px 0 65px;
+}
+.enroll h1 {
+  font-size: 42px;
+  margin: 12px 0;
+}
+.enroll-lead {
+  color: #a7b4cc;
+  max-width: 650px;
+}
+.form-section {
+  margin-top: 30px;
+  padding: 27px;
+  background: #141e36;
+  border: 1px solid #344057;
+  border-radius: 4px;
+}
+fieldset {
+  min-width: 0;
+}
+fieldset legend {
+  color: #e6cd86;
+  font: 23px Georgia;
+  padding: 0 9px;
+}
+.fields {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 12px;
+  color: #b7c8de;
+}
+.full {
+  grid-column: 1/-1;
+}
+.enroll input:not([type="checkbox"]):not([type="radio"]),
+.enroll select,
+.enroll textarea {
+  width: 100%;
+  padding: 13px;
+  background: #0e172c;
+  color: #edf2f9;
+  border: 1px solid #41516a;
+  border-radius: 3px;
+  font: 14px Arial;
+  color-scheme: dark;
+}
+.enroll input:focus,
+.enroll select:focus,
+.enroll textarea:focus {
+  outline: 2px solid #92c7db;
+  outline-offset: 2px;
+}
+.choices {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 22px;
+}
+.choice {
+  display: flex;
+  gap: 10px;
+  align-items: start;
+  font-size: 13px;
+  color: #c2cfe1;
+}
+.choice input {
+  accent-color: #d6bb74;
+  margin-top: 5px;
+}
+.help {
+  font-size: 12px;
+  color: #8fa4c1;
+  margin: 15px 0 0;
+}
+.submit-bar {
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+.submit-bar button {
+  background: #d6bb74;
+  color: #10172f;
+  border: 0;
+  border-radius: 3px;
+  padding: 15px 25px;
+  cursor: pointer;
+  font-size: 14px;
+}
+.status {
+  color: #a9cfe1;
+  font-size: 13px;
+}
+.review {
+  margin-top: 25px;
+  padding: 25px;
+  border: 1px solid #8fa4c1;
+  white-space: pre-wrap;
+  font-size: 13px;
+  color: #c2cfe1;
+}
+.review[hidden] {
+  display: none;
+}
+@media (max-width: 600px) {
+  .fields,
+  .choices {
+    grid-template-columns: 1fr;
+  }
+  .full {
+    grid-column: auto;
+  }
+  .form-section {
+    padding: 20px;
+  }
+  .enroll h1 {
+    font-size: 34px;
+  }
+}
